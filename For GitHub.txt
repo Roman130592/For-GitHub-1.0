@@ -6,7 +6,3 @@ the development of the personnel, processes and tools needed for the safe and su
 2)The NASA Safety Center supports Safety and Mission Assurance organizations across NASA in the areas of 
 technical excellence, knowledge sharing and analysis, assessments and investigations, and mishap prevention. 
 Learn more about the people and organizational structure of the NSC.
-
-3)The NASA Safety Center (NSC) offers professional development opportunities to equip Safety and Mission
- Assurance (SMA) community members with the knowledge, skills and tools they need to do their jobs with 
-confidence and credibility.
